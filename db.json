@@ -1,6 +1,6 @@
 {
-status:200,
-data:{
-message:"otp sent"
+"status":200,
+"data":{
+"message":"otp sent"
 }
 }
